@@ -18,7 +18,7 @@ int main()
 	yylex();                                             
 	printf("%d\n", count);
 }
-int yywrap()         //calling yywrap to end of file
+int yywrap()     
 {
 	return 1;
 }
