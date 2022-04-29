@@ -1,0 +1,4 @@
+1. Write a perl script to extract all the http/https links in the attached html file. Rewrite the file (into a new output html file) with all the links removed.
+2. Write a perl program that starts with an array of size 1 and then doubles the size
+of the array when user needs more space. Program will read numbers from
+until the user types -999.
