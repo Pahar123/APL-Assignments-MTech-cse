@@ -1,0 +1,2 @@
+1. Write a lex program to count the no of occurrences of a user-given word in a user-given file. File name must be supplied from command line.
+2. Write a lex program to recognize alphanumeric, numeric, alphabet (in Upper Case), and alphabet (in Lower Case) strings in a text file. The program should label each string according to one of the above four categories. If a string does not belong to any of the above four categories then label it as "Unknown". 
